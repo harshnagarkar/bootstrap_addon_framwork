@@ -1,7 +1,5 @@
 # bootstrap_addon_framwork
 
-The aim of this project is to address php dynamic objects but to used premade grid of bootstrap so we don't need to start from scratch.
+The aim of this project is to address in php, dynamic objects build to used premade grid of bootstrap stored in databse so we can create pages by just mysql combinations.
 
-Currently this project is unstable, patches for
-password check, 
-efficient transfer of data from dashboard to object writer is needed
+
